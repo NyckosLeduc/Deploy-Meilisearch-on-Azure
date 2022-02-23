@@ -4,4 +4,4 @@ Deploy Meilisearch on Azure
 How to deploy ?
 
 
-https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/NyckosLeduc/Deploy-Meilisearch-on-Azure/blob/main/main.json
+https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNyckosLeduc%2FDeploy-Meilisearch-on-Azure%2Fblob%2Fmain%2Fmain.json
