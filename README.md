@@ -1,4 +1,4 @@
-# Deploy-Meilisearch-on-Azure
+# Deploy Meilisearch on Azure
 Deploy Meilisearch on Azure
 
 How to deploy ?
